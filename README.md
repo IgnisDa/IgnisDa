@@ -25,8 +25,8 @@ frontend technologies.
 - Email: ignisda2001@gmail.com
 - Discord: @IgnisDa#5244
 
-## Some stats about my open source presence
+## Some stats about my presence in open source community
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=IgnisDa&count_private=true&theme=dark"/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=IgnisDa&count_private=true&theme=dark)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnisDa&theme=dark&layout=compact"/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnisDa&theme=dark)
