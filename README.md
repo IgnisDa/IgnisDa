@@ -19,12 +19,14 @@ frontend technologies.
 - Git/Github
 - C/C++
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=IgnisDa&count_private=true&theme=dark"/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnisDa&theme=dark&layout=compact"/>
-
 ## Socials
 
 - Github: [IgnisDa](https://github.com/IgnisDa/)
 - Email: ignisda2001@gmail.com
 - Discord: @IgnisDa#5244
+
+## Some stats about my open source presence
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=IgnisDa&count_private=true&theme=dark"/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnisDa&theme=dark&layout=compact"/>
