@@ -13,8 +13,12 @@ frontend technologies.
 
 ## Languages and technologies I am using
 
-- Python (Django, Matplotlib, Tensorflow)
-- Javascript (Vuejs)
+- Python
+  1. Django
+  2. Matplotlib
+  3. Tensorflow
+- Javascript
+  1. Vuejs
 - HTML/CSS
 - Git/Github
 - C/C++
