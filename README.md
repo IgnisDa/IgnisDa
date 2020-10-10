@@ -18,6 +18,7 @@ frontend technologies.
 - HTML/CSS
 - Git/Github
 - C/C++
+- Bash/Zsh
 
 ## Socials
 
