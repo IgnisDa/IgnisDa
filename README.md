@@ -4,12 +4,17 @@ I am self taught programmer, currently learning Python and Javascript and
 easing into web development. I am developing my skills in various backend and
 frontend technologies.
 
+## Little about me
+
 - I am continuously learning and using Python and Javascript for my personal
   hobby projects.
 - I love talking about programming languages and their implementation, so if
   you hang around on one of the platforms below, feel free to hit me up!
 - I am looking to learn low level languages like C/C++ soon, along with Rust
   next.
+- I am a student.
+- Fun fact: I once got lost in Ohio, USA during a trip. Fortunately I found my
+  way back home.
 
 ## Languages and technologies used
 
