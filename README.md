@@ -1,7 +1,7 @@
 # Greetings 👋
 
 I am self taught programmer, currently learning Python and Javascript and
-easing into web development, and developing my skills in various backend and
+easing into web development. I am developing my skills in various backend and
 frontend technologies.
 
 - I am continuously learning and using Python and Javascript for my personal
