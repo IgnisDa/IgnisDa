@@ -40,7 +40,3 @@ frontend technologies.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=IgnisDa&count_private=true&theme=dark)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnisDa&theme=dark)
-
-## Projects
-
-I have worked on a lot of projects, feel free to explore the ones pinned below!
