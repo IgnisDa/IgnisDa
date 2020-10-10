@@ -19,11 +19,9 @@ frontend technologies.
 - Git/Github
 - C/C++
 
-[![IgnisDa's github
-stats](https://github-readme-stats.vercel.app/api?username=IgnisDa&count_private=true&theme=dark)](https://github.com/IgnisDa/)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=IgnisDa&count_private=true&theme=dark"/>
 
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnisDa&theme=dark&layout=compact)](https://github.com/IgnisDa/)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnisDa&theme=dark&layout=compact"/>
 
 ## Socials
 
