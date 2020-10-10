@@ -11,7 +11,7 @@ frontend technologies.
 - I am looking to learn low level languages like C/C++ soon, along with Rust
   next.
 
-## Languages and technologies I am using
+## Languages and technologies used
 
 - Python
   1. Django
@@ -30,7 +30,7 @@ frontend technologies.
 - Email: ignisda2001@gmail.com
 - Discord: @IgnisDa#5244
 
-## Some stats about my presence in the FOSS community
+## My presence in the FOSS community
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=IgnisDa&count_private=true&theme=dark)
 
