@@ -1,16 +1,32 @@
-### Hi there 👋
+# Greetings 👋
 
-<!--
-**IgnisDa/IgnisDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am self taught programmer, currently learning Python and Javascript and
+easing into web development, and developing my skills in various backend and
+frontend technologies.
 
-Here are some ideas to get you started:
+- I am continuously learning and using Python and Javascript for my personal
+  hobby projects.
+- I love talking about programming languages and their implementation, so if
+  you hang around on one of the platforms below, feel free to hit me up!
+- I am looking to learn low level languages like C/C++ soon, along with Rust
+  next.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and technologies I am using
+
+- Python (Django, Matplotlib, Tensorflow)
+- Javascript (Vuejs)
+- HTML/CSS
+- Git/Github
+- C/C++
+
+[![IgnisDa's github
+stats](https://github-readme-stats.vercel.app/api?username=IgnisDa&count_private=true&theme=dark)](https://github.com/IgnisDa/)
+
+[![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnisDa&theme=dark&layout=compact)](https://github.com/IgnisDa/)
+
+## Socials
+
+- Github: [IgnisDa](https://github.com/IgnisDa/)
+- Email: ignisda2001@gmail.com
+- Discord: @IgnisDa#5244
