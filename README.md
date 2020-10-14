@@ -26,6 +26,7 @@ frontend technologies.
   1. Vuejs
 - HTML/CSS
 - Git/Github
+- Docker/Docker-Compose
 - C/C++
 - Bash/Zsh
 
