@@ -35,6 +35,7 @@ frontend technologies.
 - Github: [IgnisDa](https://github.com/IgnisDa/)
 - Email: ignisda2001@gmail.com
 - Discord: @IgnisDa#5244
+- LinkedIn: https://www.linkedin.com/in/diptesh-choudhuri-0647501b9
 
 ## My presence in the FOSS community
 
