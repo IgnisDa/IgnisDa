@@ -24,6 +24,7 @@ frontend technologies.
   3. Tensorflow
 - Javascript
   1. Vuejs
+  2. Nodejs
 - HTML/CSS
 - Git/Github
 - Docker/Docker-Compose
