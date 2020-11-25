@@ -25,6 +25,7 @@ frontend technologies.
 - Javascript
   1. Vuejs
   2. Nodejs
+- GraphQL
 - HTML/CSS
 - Git/Github
 - Docker/Docker-Compose
