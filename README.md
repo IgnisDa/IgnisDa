@@ -21,7 +21,6 @@ frontend technologies.
 - Python
   1. Django
   2. Matplotlib
-  3. Tensorflow
 - Javascript
   1. Vuejs
   2. Nodejs
@@ -31,6 +30,7 @@ frontend technologies.
 - Docker/Docker-Compose
 - C/C++
 - Bash/Zsh
+- Vagrant
 
 ## Socials
 
