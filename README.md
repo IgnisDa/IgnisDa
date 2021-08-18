@@ -43,4 +43,4 @@ frontend technologies.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=IgnisDa&count_private=true&theme=dark)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnisDa&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnisDa&theme=dark&hide=jupyter%20notebook,lua,css)
