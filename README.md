@@ -6,7 +6,7 @@ frontend technologies.
 
 ## About me
 
-You can find out more about me on my [website](https://ignisda.netlify.app/).
+You can find out more about me on my [website](https://ignisda.tech/).
 
 ## Socials
 
@@ -14,7 +14,7 @@ You can find out more about me on my [website](https://ignisda.netlify.app/).
 - Email: ignisda2001@gmail.com
 - Discord: @IgnisDa#5244
 - LinkedIn: https://www.linkedin.com/in/diptesh-choudhuri-0647501b9
-- Website: https://ignisda.netlify.app/
+- Website: https://ignisda.tech/
 
 ## My presence in the FOSS community
 
