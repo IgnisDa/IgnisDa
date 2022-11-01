@@ -1,8 +1,7 @@
 # Greetings 👋
 
-I am self taught programmer, currently learning Python and Javascript and
-easing into web development. I am developing my skills in various backend and
-frontend technologies.
+I am self taught programmer, currently learning Rust.
+I am developing my skills in various backend and frontend technologies.
 
 ## About me
 
