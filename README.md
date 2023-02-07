@@ -17,5 +17,5 @@ You can find out more about me on my [website](https://diptesh.me).
 
 ## My presence in the FOSS community
 
-![IgnisDa GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignisda&show_icons=true&locale=en&theme=tokyonight)
-![IgnisDa GitHub Stats](https://streak-stats.demolab.com/?user=ignisda&theme=tokyonight)
+![IgnisDa GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignisda&show_icons=true&locale=en&theme=dark)
+![IgnisDa GitHub Stats](https://streak-stats.demolab.com/?user=ignisda&theme=dark)
