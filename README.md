@@ -22,6 +22,9 @@ You can find out more about me on my [website](https://diptesh.me).
 
 ## Donations
 
-In case you would like to donate to me 🙂.
+
+If you like my projects and want to support their development, consider sponsoring me. Every single donation will be appreciated and will boost my motivation to keep on coding in open source 🙃. 
 
 - [Buy me a coffee](https://www.buymeacoffee.com/ignisda)
+
+Please don't forget to leave me some kind of message (with the donation or as a separate e-mail) to let me know which specific project the donations is for, what you like about it and what I can do to improve it further 🙂.
