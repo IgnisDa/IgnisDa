@@ -19,3 +19,9 @@ You can find out more about me on my [website](https://diptesh.me).
 
 ![IgnisDa GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignisda&show_icons=true&locale=en&theme=dark)
 ![IgnisDa GitHub Stats](https://streak-stats.demolab.com/?user=ignisda&theme=dark)
+
+## Donations
+
+In case you would like to donate to me 🙂.
+
+- [Buy me a coffee](https://www.buymeacoffee.com/ignisda)
