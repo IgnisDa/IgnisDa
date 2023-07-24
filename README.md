@@ -11,7 +11,7 @@ You can find out more about me on my [website](https://diptesh.me).
 
 - Github: [IgnisDa](https://github.com/IgnisDa/)
 - Email: ignisda2001@gmail.com
-- Discord: @IgnisDa#5244
+- Discord: @IgnisDa
 - LinkedIn: https://www.linkedin.com/in/diptesh-choudhuri-0647501b9
 - Website: https://diptesh.me
 
