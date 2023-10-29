@@ -1,9 +1,6 @@
 # Greetings 👋
 
-I am self taught programmer, currently learning Rust.
-I am developing my skills in various backend and frontend technologies.
-
-## About me
+I am self taught programmer, currently learning Rust and am currently developing my skills in various backend and frontend technologies.
 
 You can find out more about me on my [website](https://diptesh.me).
 
