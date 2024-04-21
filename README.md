@@ -1,8 +1,6 @@
-# Greetings 👋
+# Greetings 👋, I am Diptesh
 
-I am self taught programmer, currently learning Rust and am currently developing my skills in various backend and frontend technologies.
-
-You can find out more about me on my [website](https://diptesh.me).
+I love to solve problems with code. I am based in New Delhi, India. You can find out more about me on my [website](https://diptesh.me).
 
 ## Socials
 
