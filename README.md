@@ -13,4 +13,4 @@ I love to solve problems with code. I am based in New Delhi, India. You can find
 ## My presence in the FOSS community
 
 ![IgnisDa GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignisda&show_icons=true&locale=en&theme=dark)
-![IgnisDa GitHub Stats](https://streak-stats.demolab.com/?user=ignisda&theme=dark)
+![IgnisDa GitHub Stats]([https://streak-stats.demolab.com/](https://github-readme-streak-stats.herokuapp.com/?user=ignisda&theme=dark)
