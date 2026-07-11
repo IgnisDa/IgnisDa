@@ -8,7 +8,7 @@ I love to solve problems with code. I am based in New Delhi, India. You can find
 - Email: ignisda2001@gmail.com
 - Discord: @IgnisDa
 - LinkedIn: https://www.linkedin.com/in/diptesh-choudhuri-0647501b9
-- Website: https://diptesh.me
+- Website: https://ignisda.me
 
 ## My presence in the FOSS community
 
